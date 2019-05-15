@@ -1,6 +1,6 @@
-# [Machine Learning Classification Project] Need of C-section for pregnant women
+# [Machine Learning Classification Project] Need of caesarian section for pregnant women
 ## Description
-This is a project to assess the need of C-section for pregnant women based on their health condition and history of prior deliveries. The objectives of this project are to:
+This is a project to assess the need of caesarian section for pregnant women based on their health condition and history of prior deliveries. The objectives of this project are to:
 1. Understand the data available
 2. Test rapidly different classification models
 3. Assess the best model(s) and improve them
